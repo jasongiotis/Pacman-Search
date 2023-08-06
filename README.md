@@ -22,6 +22,7 @@ python autograder.py -q q1
 <br>
 
 <h3> Question 2 : Breadth First Search</h3> <br>
+
 medium maze test:
   
 ```

@@ -40,3 +40,45 @@ python autograder.py -q q2
 ```
 
 <br>
+
+<h3> Question 3 : A* search </h3> <br>
+
+test whith manhattan Heuristic
+
+```
+python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+```
+autograder:
+
+```
+python autograder.py -q q3
+```
+<br>
+
+<h3> Question 4 : Finding All the Corners</h3> <br>
+
+
+tiny corners test:
+  
+```
+python pacman.py -l tinyCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+```
+medium corners test:
+
+```
+python pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem
+```
+autograder:
+
+```
+python autograder.py -q q4
+```
+
+<br>
+
+
+
+
+
+
+

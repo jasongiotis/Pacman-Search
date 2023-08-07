@@ -124,7 +124,7 @@ python autograder.py -q q7
 <br>
 
 
-<h3>test the whole project :<h3>
+<h3>test the whole project :</h3>h3>
 
 ```
 python autograder.py 

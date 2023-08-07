@@ -124,6 +124,13 @@ python autograder.py -q q7
 <br>
 
 
+test the whole project :
+
+```
+python autograder.py 
+```
+
+
 
 
 

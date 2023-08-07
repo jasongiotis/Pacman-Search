@@ -1,5 +1,5 @@
 # Pacman-Search
-helping Pacman escape mazes using search algorithms  <br>
+Helping Pacman escape mazes using search algorithms  <br>
 
 
 ![alt text](https://inst.eecs.berkeley.edu/~cs188/sp21/assets/images/maze.png)

@@ -1,6 +1,9 @@
 # Pacman-Search
 helping Pacman escape mazes using search algorithms  <br>
 
+
+![alt text](https://inst.eecs.berkeley.edu/~cs188/sp21/assets/images/maze.png)
+
 <h3> Question 1 : Finding a Fixed Food Dot using Depth First Search </h3> <br>
 
 We can test our implementation by checking different maze sizes (tiny medium big)
